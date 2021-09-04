@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  usuario: MyString
+  orderable: one
+  orderable_type: Orderable
+
+two:
+  usuario: MyString
+  orderable: two
+  orderable_type: Orderable
